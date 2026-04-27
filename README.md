@@ -34,7 +34,8 @@ This dataset contains daily weather information for cities around the world and 
 # Repository Files
 
 ```text
-Global_Weather_Forecasting_Assessment.ipynb
+Global_Weather_Forecasting.ipynb
+report.pdf
 README.md
 requirements.txt
 ```
