@@ -180,5 +180,36 @@ Compared:
 - Matplotlib  
 - Seaborn  
 - Scikit-learn  
-- XGBoost  
+- XGBoost
+
+---
+
+# How to Run
+
+1. Clone the repository
+2. Install required libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook:
+
+```bash
+jupyter notebook
+```
+
+or run in **Google Colab**
+
+---
+
+# Key Conclusion
+
+This project demonstrates a complete data science workflow using real-world weather data. Through feature engineering, model comparison and ensemble learning, forecasting performance improved significantly, achieving an R² score of **0.631**. Additional climate and environmental analyses provided broader insights into global weather behavior.
+
+---
+
+# Author
+
+**Mounika Teppola**
 
