@@ -109,6 +109,12 @@ Compared multiple machine learning models:
 
 - R² = 0.6264
 
+## Model Performance Comparison (R² Score)
+
+The chart below compares forecasting performance across all tested models using the R² metric. Higher values indicate better predictive accuracy. XGBoost achieved the strongest standalone performance, while ensemble tree-based models consistently outperformed traditional linear approaches.
+
+![Model Comparison by R² Score](R² Comparison.png)
+
 ---
 
 ## 5. Final Ensemble Model
@@ -203,6 +209,8 @@ jupyter notebook
 or run in **Google Colab**
 
 ---
+
+
 
 # Key Conclusion
 
